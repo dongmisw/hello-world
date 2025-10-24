@@ -9,6 +9,19 @@ markdown language - 글 서식 편집용 언어
 ### 고양이
 <img src="cat.jpg"/>
 
+
+## 🛠 기술 스택
+
+| 구분 | 기술 |
+|------|------|
+| **Frontend** | HTML, CSS, JavaScript (jQuery, Ajax), React |
+| **Backend** | Python, Django REST Framework |
+| **Database** | SQLite (개발용) |
+| **Deploy** | GitHub Pages (프론트), Render (백엔드) |
+| **Tools** | VSCode, Git, Postman |
+
+---
+
 ### 반려동물 시스템 발표자료
 [네이버검색](https://www.naver.com)<br>
 [동물병원시스템프로젝트](https://github.com/dongmisw/hello-world/)<br>
